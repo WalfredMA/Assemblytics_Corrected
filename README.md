@@ -1,3 +1,6 @@
+#Assemblytics corrected by Walfred MA, Kwok lab, UCSF (wangfei.ma@ucsf.edu).
+
+
 # Assemblytics: a web analytics tool for the detection of variants from an assembly 
 
 Assemblytics is available online at http://assemblytics.com
