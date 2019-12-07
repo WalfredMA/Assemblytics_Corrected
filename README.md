@@ -1,6 +1,6 @@
 #Assemblytics corrected by Walfred MA, Kwok lab, UCSF (wangfei.ma@ucsf.edu).
 1.between_alignments.pl has been corrected for strand orientation.
-2.within_alignments.py has been rewritten for 1.strand orientation 2. Structural variation determination. 3. Coordinates correction.
+2.within_alignments.py has been rewritten for: 1.strand orientation 2. Structural variation determination. 3. Coordinates correction.
 
 
 
